@@ -1,4 +1,4 @@
 It seems like the setting time of this computer is not right
 How to reset it? 
-How can I count the characters in VS code? I did not find such function in VS code. There is counting function in word, so I type the long enough sentence here and then move it to VS code.
-How long is 80 characters look like? This sentence is about 80 characters long.
+How can I count the characters in VS code? I did not find such function in VS code. There is counting function in word, so I typed the long enough sentence here and then move it to VS code.
+How long do 80 characters look like? This sentence is about 80 characters long.
