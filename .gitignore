@@ -129,3 +129,8 @@ dmypy.json
 .pyre/
 
 /.quarto/
+
+# generated files
+**/*.pdf 
+**/*.html
+_book/
